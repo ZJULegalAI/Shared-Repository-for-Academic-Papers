@@ -1,5 +1,5 @@
 # Shared-repository-for-academic-papers
-## Welcome to the Zhejiang University Legal AI Research Group's Academic Paper Repository.
+## Welcome to the Zhejiang University LegalAI Research Group's Academic Paper Repository.
   This shared repository serves as a collaborative hub for members of our research group to share, discuss, and track academic papers relevant to Legal Artificial Intelligence. Our goal is to foster knowledge exchange and spark new ideas within the team.
   
   What you can find here:
